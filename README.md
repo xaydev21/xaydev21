@@ -14,7 +14,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/xaydev21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=ff69b4" /></a>
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧬 About Me
+### ABOUT ME
 
 ```python
 class xaydev21:
@@ -38,4 +38,4 @@ class xaydev21:
         self.motto = "Secure the future, one line of code at a time."
 
     def say_hi(self):
-        print("Welcome to my digital realm 🚀")
+        print("Welcome to my digital realm")
