@@ -30,12 +30,12 @@
 class xaydev21:
     def __init__(self):
         self.username = "xaydev21"
-        self.name = "Xay Dev"
+        self.name = "XayDev"
         self.location = "Indonesia"
-        self.role = "Full-Stack Developer & Security Researcher"
+        self.role = "Red Team [Pentest] & Security Researcher"
         self.interests = ["Cybersecurity", "AI/ML", "Cloud Computing", "Web Exploitation"]
         self.learning = "Advanced Penetration Testing & Rust"
-        self.motto = "Secure the future, one line of code at a time."
+        self.motto = "From Cyber To Money."
 
     def say_hi(self):
         print("Welcome to my digital realm")
